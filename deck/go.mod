@@ -1,4 +1,4 @@
-module yldoge.com/deck
+module github.com/yldoge/gophercises/deck
 
 go 1.19
 
